@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "君の夜をくれ",
+  "base_artist": "25時、ナイトコードで。",
+  "createdAt": "2025-12-05T15:35:30.394737Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君の夜をくれ (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&巡音ルカ)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/01_君の夜をくれ_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&巡音ルカ)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君の夜をくれ",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/02_君の夜をくれ_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君の夜をくれ",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&巡音ルカ",
+      "has_synced": true,
+      "path": "select/03_君の夜をくれ_25時、ナイトコードで。_feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&巡音ルカ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君の夜をくれ -instrumental-",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/04_君の夜をくれ_-instrumental-_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の夜をくれ (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&巡音ルカ)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": false,
+      "path": "select/pl_01_君の夜をくれ_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&巡音ルカ)_25時、ナイトコードで。.txt"
+    }
+  ]
+}
